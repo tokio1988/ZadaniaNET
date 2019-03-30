@@ -1,0 +1,11 @@
+C:\Users\Tokio\Desktop\1_Zadania\3_Operators\exercise_1\bin\Debug\netcoreapp2.1\exercise_1.deps.json
+C:\Users\Tokio\Desktop\1_Zadania\3_Operators\exercise_1\bin\Debug\netcoreapp2.1\exercise_1.runtimeconfig.json
+C:\Users\Tokio\Desktop\1_Zadania\3_Operators\exercise_1\bin\Debug\netcoreapp2.1\exercise_1.runtimeconfig.dev.json
+C:\Users\Tokio\Desktop\1_Zadania\3_Operators\exercise_1\bin\Debug\netcoreapp2.1\exercise_1.dll
+C:\Users\Tokio\Desktop\1_Zadania\3_Operators\exercise_1\bin\Debug\netcoreapp2.1\exercise_1.pdb
+C:\Users\Tokio\Desktop\1_Zadania\3_Operators\exercise_1\obj\Debug\netcoreapp2.1\exercise_1.csprojAssemblyReference.cache
+C:\Users\Tokio\Desktop\1_Zadania\3_Operators\exercise_1\obj\Debug\netcoreapp2.1\exercise_1.csproj.CoreCompileInputs.cache
+C:\Users\Tokio\Desktop\1_Zadania\3_Operators\exercise_1\obj\Debug\netcoreapp2.1\exercise_1.AssemblyInfoInputs.cache
+C:\Users\Tokio\Desktop\1_Zadania\3_Operators\exercise_1\obj\Debug\netcoreapp2.1\exercise_1.AssemblyInfo.cs
+C:\Users\Tokio\Desktop\1_Zadania\3_Operators\exercise_1\obj\Debug\netcoreapp2.1\exercise_1.dll
+C:\Users\Tokio\Desktop\1_Zadania\3_Operators\exercise_1\obj\Debug\netcoreapp2.1\exercise_1.pdb
